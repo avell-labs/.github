@@ -30,3 +30,15 @@ Todos os nossos projetos estão **abertos para contribuição**. Não sabe como?
 - Leia o **Guia de Contribuição** do repositório;
 - Siga a **Documentação** para configurar o ambiente;
 - Faça suas alterações e **envie uma PR**;
+
+## ⚠️ Aviso
+
+Este projeto, assim como toda a organização presente no GitHub, **não representa oficialmente a Avell**.  
+Somos uma **comunidade open source formada por colaboradores da empresa**, que atuam de forma **voluntária**, sem qualquer vínculo institucional com os canais de atendimento da marca.
+
+Nosso objetivo é **contribuir com a comunidade GNU/Linux**, oferecendo projetos e ferramentas livres, **sem fins lucrativos**.
+
+> Nenhum projeto, repositório ou estrutura aqui disponível serve como canal de suporte técnico da Avell.  
+> As **Issues não devem ser utilizadas para solicitar atendimento** relacionado a produtos ou serviços da empresa.  
+> O suporte fornecido limita-se **exclusivamente ao software publicado nesta organização**.
+
